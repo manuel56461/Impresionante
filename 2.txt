@@ -1,0 +1,4 @@
+- Iniciamos primero el repositorio 
+- Hacemos las conecciones remotas con la copia del repositorio y con el repositorio original
+- Realizamos un fetch de la copia del repositorio y posterior hacemos una fusion recordando de se realizaran los fetch y las fuciones si el repositorio fork tambien se tranaja en colaoracion
+- Realizamos in fetch de el repositorio original y posteriormente una fusion para tener los cambios que se han realizado en este de manera local recordando de que antes que subamos algo al repositorio clone que se encuentra en nuestro github tenemos que hacer un fetch del repositorio original y posteriormente otra fusion para mantenernos actualizados y realizar un pull request sin complicaciones.
