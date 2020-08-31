@@ -1,1 +1,7 @@
-
+body{
+    background-color: blue;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    background-image: url(www.google.com);
+}
